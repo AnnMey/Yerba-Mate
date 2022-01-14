@@ -5,24 +5,16 @@ by Anna Meyer, 14 Jan 2022
 ## Contents  
 - [About this manual](#about-this-manual)
 - [Introduction](#introduction)
-- [Glossary](#glossary)
 - [Before you start](#before-you-start)
 - [How to prepare *mate*](#how-to-prepare-mate)
 - [How to prepare *tereré*](#how-to-prepare-tereré)
+- [Glossary](#glossary)
 
 ## About this manual 
-The aim of this user manual is to guide you through the process of preparing mate. The manual contains a glossary of the terms used in it, a list of the things you need, a step-by-step instruction of preparing mate, and a short description of how to prepare tereré.
+The aim of this user manual is to guide you through the process of preparing mate. The manual contains a list of the things you need, a step-by-step instruction of preparing mate, and a short description of how to prepare tereré. At the end, there is a [glossary](#glossary) of the terms used in the manual.
 
 ## Introduction
 **Mate** is a traditional South-American caffeine-rich drink. It is prepared by soaking dried leaves of **yerba mate**, in hot water. Mate is served with with a straw called bombilla, in a special container – mate cup.
-
-## Glossary
-- Bombilla – A drinking straw used to drink mate. Bombillas are made of hollow-stemmed cane, metal alloys, stainless steel, and silver.  
-- Food thermometer –  A thermometer that is safe to use with food and drinks.
-- Mate –  A traditional South-Aerican drink prepared by soaking yerba mate leaves in **hot** water.
-- Mate cup –  A special containter in which mate is prepared.
-- Tereré – A traditional South-Aerican drink prepared by soaking yerba mate leaves in **cold** water.
-- Yerba mate – A holly species *Ilex paraguariensis*. Dried leaves of this plant are used to prepare the drink called mate.
 
 ## Before you start
 To prepare mate, you need:  
@@ -55,3 +47,11 @@ To prepare tereré, a cold infusion of yerba mate, follow the instruction for ma
 - fill the mate cup to 3/4 of the cup’s volume;
 - use cold water or juice;
 - optionally: add some ice cubes.
+
+## Glossary
+- Bombilla – A drinking straw used to drink mate. Bombillas are made of hollow-stemmed cane, metal alloys, stainless steel, and silver.  
+- Food thermometer –  A thermometer that is safe to use with food and drinks.
+- Mate –  A traditional South-Aerican drink prepared by soaking yerba mate leaves in **hot** water.
+- Mate cup –  A special containter in which mate is prepared.
+- Tereré – A traditional South-Aerican drink prepared by soaking yerba mate leaves in **cold** water.
+- Yerba mate – A holly species *Ilex paraguariensis*. Dried leaves of this plant are used to prepare the drink called mate.
